@@ -1,0 +1,110 @@
+<resources>
+    <string name="RouteAlert">Route Alert</string>
+
+    <string name="lastname">LastName</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="contactnumber">ContactNumber</string>
+    <string name="password">Password</string>
+    <string name="cnic_id">Cnic / Id</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="name">Name</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="not_a_memeber_signup">Not A Memeber? SignUp</string>
+    <string name="admin">Admin</string>
+    <string name="feedback">FeedBack</string>
+    <string name="username">UserName</string>
+    <string name="message">Your Message</string>
+    <string name="submit">Submit</string>
+    <string name="date">Date: </string>
+    <string name="logout">logout</string>
+    <string name="userimage">userimage</string>
+    <string name="view_notification">View Notification</string>
+    <string name="submit_complains">Submit Complains</string>
+    <string name="check_status_of_complains">Check Complains</string>
+    <string name="emergenecy_help">Emergenecy Help</string>
+    <string name="feed_back">Feed Back</string>
+    <string name="alert">Alert</string>
+    <string name="adresss">Adresss:</string>
+    <string name="time">Time:</string>
+    <string name="notification_id">Notification ID: </string>
+    <string name="sumbit_your_complains_here">Sumbit your Complains here!</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="complain_id">Complain ID: </string>
+    <string name="user_id">User ID:</string>
+    <string name="title">Title:</string>
+    <string name="category">Category:</string>
+    <string name="help_me">Help ME!</string>
+    <string name="current_location">Current Location:</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="emergency_help">Emergency Help!</string>
+    <string name="date2">Date</string>
+    <string name="enter_desccription">Feedback Message</string>
+
+    <string-array name="complain_Array">
+        <item>Natural Calamities</item>
+        <item>Accident</item>
+        <item>Traffic Congestion</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="title_activity_main_admin">ActivityMainAdmin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notifications">Notifications</string>
+    <string name="complaints">Complaints</string>
+    <string name="emergency">Emergency</string>
+    <string name="generate_reports">Generate Reports</string>
+    <string name="create_and_send_notifications_here">Create and Send Notifications Here!</string>
+    <string name="enter_alerts_or_notifications">Enter Alerts or Notifications</string>
+    <string name="generate_an_alert">Generate an Alert!</string>
+    <string name="complaint_id">Complaint ID:</string>
+    <string name="change_status">Change Status:</string>
+    <string name="description">Description:</string>
+    <string name="feedback_id">FeedBack ID:</string>
+    <string name="location">Location:</string>
+    <string name="contact">Contact:</string>
+    <string name="change_your_passowrd_here">Change Your Passowrd Here!</string>
+    <string name="current_passowrd">Current passowrd</string>
+    <string name="new_passowrd">New Passowrd</string>
+    <string name="confirm_passowrd">Confirm Passowrd</string>
+    <string name="change_passowrd">Change Passowrd</string>
+    <string name="please_select_category">Please Select Category</string>
+    <string name="route_alert">Route Alert</string>
+    <string name="logo_image">Logo_Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="approvals">Approvals</string>
+    <string name="status">Status:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="id_proof">ID Proof:</string>
+    <string name="approval">Approval:</string>
+    <string name="first_name2">First Name</string>
+    <string name="id">ID</string>
+
+    <string-array name="complain_status_Array">
+        <item>Pending</item>
+        <item>Approve</item>
+        <item>Denied</item>
+    </string-array>
+
+    <string-array name="report_Complain_Array">
+        <item>Complaint Summary</item>
+        <item>Daily FeedBacks</item>
+        <item>Notification Summary</item>
+    </string-array>
+
+
+
+</resources>

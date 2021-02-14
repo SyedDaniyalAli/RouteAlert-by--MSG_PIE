@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942340529176",
+    "firebase_url": "https://routealert-5eeb5.firebaseio.com",
+    "project_id": "routealert-5eeb5",
+    "storage_bucket": "routealert-5eeb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942340529176:android:cd47aebab14e30c6",
+        "android_client_info": {
+          "package_name": "com.sda.syeddaniyalali.routealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942340529176-19hvhe3ra2cmnkk5m9qg91qfgga3aq8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sda.syeddaniyalali.routealert",
+            "certificate_hash": "09900bd7c82619e5563eb35531047dfa77b5de22"
+          }
+        },
+        {
+          "client_id": "942340529176-d9f245o9vrdjpqbsevgltku0mjf5htk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHex18fvnQSnKz0DW5f5MI161UM20Pr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942340529176-d9f245o9vrdjpqbsevgltku0mjf5htk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

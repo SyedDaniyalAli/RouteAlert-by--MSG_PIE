@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/msg_nav_Notification"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="@string/notifications" />
+        <item
+            android:id="@+id/msg_nav_Complaint"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="@string/complaints" />
+        <item
+            android:id="@+id/msg_nav_Emergency"
+            android:icon="@drawable/ic_emergency_black_24dp"
+            android:title="@string/emergency" />
+        <item
+            android:id="@+id/msg_nav_Report"
+            android:icon="@drawable/ic_report_problem_black_24dp"
+            android:title="@string/generate_reports" />
+
+        <item
+            android:id="@+id/msg_nav_Approval"
+            android:icon="@drawable/ic_beenhere_black_24dp"
+            android:title="@string/approvals" />
+
+    </group>
+
+    <item android:title="Extras for CTCD Department">
+        <menu>
+            <item
+                android:id="@+id/msg_nav_Feedback"
+                android:icon="@drawable/ic_feedback_down_black_24dp"
+                android:title="FeedBacks" />
+            <item
+                android:id="@+id/msg_nav_ChangePass"
+                android:icon="@drawable/ic_pass_black_24dp"
+                android:title="Change Password" />
+            <item
+                android:id="@+id/msg_nav_Logout"
+                android:icon="@drawable/ic_logout_24dp"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
